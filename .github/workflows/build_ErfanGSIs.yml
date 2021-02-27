@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://bigota.d.miui.com/21.2.24/miui_VENUS_21.2.24_760d848814_11.0.zip
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
